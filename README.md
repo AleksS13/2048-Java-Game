@@ -48,7 +48,7 @@ A desktop implementation of the classic 2048 game built using Java and Swing.
 
 
 
-!\[Game Screenshot](screenshots/game.png)
+!\[Game Screenshot](/screenshots/game.png)
 
 
 
